@@ -2,7 +2,7 @@ Given the user story: "As a player, I want to choose the size of the game board 
 
 Chat-GPT guessed that it would take 4 hours to implement;however, setting the size of a game board can get complicated when the board type is also changeable so more time
 will be needed to implement the user story. Lastly, Chat-GPT gave high priority to the user story for choosing a board size. However, the size of the game board doesn't
-heavily affect the user's ability to play the game.
+heavily affect the user's ability to play the game. So I lowered its priority from high to medium.
 
 Given user story 2: "As a player, I want to choose the type of game board so that I can customize how I play the game,"
 
